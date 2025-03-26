@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "astro-mia",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -31,5 +31,18 @@
   },
   "devDependencies": {
     "wrangler": "^4.3.0"
-  }
+  },
+  "description": "[English](README.md) | [中文](README_zh.md) | [Demo](https://astro-theme-mia.pages.dev/)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jack-Liang/kiksoft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jack-Liang/kiksoft/issues"
+  },
+  "homepage": "https://github.com/Jack-Liang/kiksoft#readme"
 }
