@@ -1,4 +1,4 @@
-export const SITE_FAVICON = "/favicon.png";
+export const SITE_FAVICON = "/favicon.svg";
 export const SITE_LOGO = "/avatar.png";
 export const SITE_TITLE = "Kik soft";
 export const SITE_DESCRIPTION =
